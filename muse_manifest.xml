@@ -1,0 +1,80 @@
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="vis-wear.de" resolutions="1x" timestamp="1492702710683">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-musters.css" crc="10820965" ref="shop:index:kontakt--impressum"/>
+    <file name="shop.css" crc="3892296793" ref="shop"/>
+    <file name="index.css" crc="92140774" ref="index"/>
+    <file name="kontakt--impressum.css" crc="4254966611" ref="kontakt--impressum"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>shop:phone>kontakt--impressum:index:shop:kontakt--impressum"/>
+    <file name="museutils.js" crc="4148063285" ref="phone>index:phone>shop:phone>kontakt--impressum:index:shop:kontakt--impressum"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>shop:phone>kontakt--impressum:index:shop:kontakt--impressum"/>
+    <file name="museconfig.js" crc="4179431180" ref="phone>index:phone>shop:phone>kontakt--impressum:index:shop:kontakt--impressum"/>
+    <file name="webpro.js" crc="3986320349" ref="phone>index:index"/>
+    <file name="musewpslideshow.js" crc="405464237" ref="phone>index:index"/>
+    <file name="jquery.museoverlay.js" crc="305414130" ref="phone>index:index"/>
+    <file name="touchswipe.js" crc="221459597" ref="phone>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="437028206" ref="phone>index:phone>shop:phone>kontakt--impressum:index:shop:kontakt--impressum"/>
+    <file name="require.js" crc="4159430777" ref="phone>index:phone>shop:phone>kontakt--impressum:index:shop:kontakt--impressum"/>
+  </folder>
+  <folder name="images">
+    <file name="vis_maskottchen_mobile.jpg" crc="489815431" seo="true" ref="phone>index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
+    <file name="vis katy.jpg" crc="271965426" seo="true" ref="phone>index"/>
+    <file name="vis little peace.jpg" crc="404833342" seo="true" ref="phone>index"/>
+    <file name="vis-lenka.jpg" crc="3996253462" seo="true" ref="phone>index"/>
+    <file name="vis cap.jpg" crc="446269365" seo="true" ref="phone>index"/>
+    <file name="vis shirt balloon.jpg" crc="4109184928" seo="true" ref="phone>index"/>
+    <file name="trigger 2.png" crc="338833958" ref="phone>index:index"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:index"/>
+    <file name="header.jpg" crc="4212117453" ref="phone>index:index"/>
+    <file name="bildmarke.svg" crc="316851519" seo="true" ref="phone>index:phone>shop:phone>kontakt--impressum:index:shop:kontakt--impressum"/>
+    <file name="bildmarke_poster_.png" crc="504080033" ref="phone>index"/>
+    <file name="wortmarke.svg" crc="156846869" seo="true" ref="phone>index:phone>shop:phone>kontakt--impressum:index:shop:kontakt--impressum"/>
+    <file name="wortmarke_poster_.png" crc="4127105192" ref="phone>index"/>
+    <file name="shop.svg" crc="4292287871" ref="phone>index:index"/>
+    <file name="shop_poster_u18430.png" crc="271907576" ref="phone>index:index"/>
+    <file name="shoping_rollover.svg" crc="183681132" ref="phone>index:index"/>
+    <file name="shoping_rollover_poster_u6176.png" crc="4107744268" ref="phone>index:index"/>
+    <file name="facebook 2.svg" crc="97596966" ref="phone>index:index"/>
+    <file name="facebook 2_poster_u4828.png" crc="4051484398" ref="phone>index:index"/>
+    <file name="instagram.svg" crc="3941122684" ref="phone>index:index"/>
+    <file name="instagram_poster_u4836.png" crc="529801287" ref="phone>index:index"/>
+    <file name="snapchat.svg" crc="3830796236" ref="phone>index:index"/>
+    <file name="snapchat_poster_u4844.png" crc="228429192" ref="phone>index:index"/>
+    <file name="kontakt.svg" crc="288629670" ref="phone>index:index"/>
+    <file name="kontakt_poster_u4868.png" crc="3939922678" ref="phone>index:index"/>
+    <file name="u7894-18.png" crc="4275862810" ref="phone>kontakt--impressum"/>
+    <file name="vis_maskottchen.jpg" crc="3835985851" seo="true" ref="index"/>
+    <file name="vis-katy.jpg" crc="3951302194" seo="true" ref="index"/>
+    <file name="vis-sylt.jpg" crc="3873120252" seo="true" ref="index"/>
+    <file name="vis brasil.jpg" crc="4058364526" seo="true" ref="index"/>
+    <file name="vis-freunde.jpg" crc="4132399524" seo="true" ref="index"/>
+    <file name="vis-familie.jpg" crc="229921748" seo="true" ref="index"/>
+    <file name="facebook_rollover.svg" crc="3807732079" ref="index"/>
+    <file name="facebook_rollover_poster_u4876.png" crc="4000431045" ref="index"/>
+    <file name="instagram_rollover.svg" crc="4099398945" ref="index"/>
+    <file name="instagram_rollover_poster_u4884.png" crc="305521972" ref="index"/>
+    <file name="snapchat_rollover.svg" crc="1149509" ref="index"/>
+    <file name="snapchat_rollover_poster_u4892.png" crc="4111447394" ref="index"/>
+    <file name="kontakt_rollover.svg" crc="504015608" ref="index"/>
+    <file name="kontakt_rollover_poster_u4908.png" crc="3875114779" ref="index"/>
+    <file name="u6234-17.png" crc="3931497376" ref="kontakt--impressum"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-musters.css" crc="103062379" ref="phone>shop:phone>index:phone>kontakt--impressum"/>
+      <file name="shop.css" crc="3899441734" ref="phone>shop"/>
+      <file name="index.css" crc="417569676" ref="phone>index"/>
+      <file name="kontakt--impressum.css" crc="98404158" ref="phone>kontakt--impressum"/>
+    </folder>
+    <file name="index.html" crc="3815187315" seo="true" mt="1492637244424" redirect="true"/>
+    <file name="shop.html" crc="3861338589" seo="true" mt="1492637244424" redirect="true"/>
+    <file name="kontakt--impressum.html" crc="200418598" seo="true" mt="1492637244424" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4080254231" seo="true" mt="1492702684444" redirect="true"/>
+  <file name="shop.html" crc="255541460" seo="true" mt="1491446073310" redirect="true"/>
+  <file name="kontakt--impressum.html" crc="238635602" seo="true" mt="1492426663287" redirect="true"/>
+</manifest>
